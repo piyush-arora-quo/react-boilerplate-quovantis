@@ -9,7 +9,7 @@ This is a custom react project created without any tool or pre-defined projects 
   - Webpack configs for dev and prod
   - Minification of js in prod
   - Minification of css in prod
-  - Custom environment in-build(dev,qa,prod,test)
+  - Custom environment in-built(dev,qa,prod,test)
   - Test setup done with test env
   - Prettier enabled
   - Linting enabled
