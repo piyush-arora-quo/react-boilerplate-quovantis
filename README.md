@@ -17,7 +17,7 @@ This is a custom react project created without any tool or pre-defined projects 
   - Redux 
   - Redux thunk
   - Logging and Fetch abstracted to upper level
-  - css modules enabled
+  - Css modules enabled
   - Routing enabled
   - Es6 enabled
   - Code splitting enabled with loadable components
