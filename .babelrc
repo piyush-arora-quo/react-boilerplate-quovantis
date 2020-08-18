@@ -1,0 +1,7 @@
+{
+    "presets":[
+      "@babel/preset-react", //for understanding jsx
+      "@babel/preset-env" //for import
+    ],
+    "plugins": ["@babel/plugin-syntax-dynamic-import"]
+  }
